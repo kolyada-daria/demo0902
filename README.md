@@ -3,7 +3,7 @@
 
 # 🐾 Такса — Солнце в доме
 
-![Такса рыжего окраса](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dachshund-600.jpg/800px-Dachshund-600.jpg)
+![Такса рыжего окраса]([https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Dachshund-600.jpg/800px-Dachshund-600.jpg](https://www.google.com/imgres?q=%D1%82%D0%B0%D0%BA%D1%81%D1%8B&imgurl=https%3A%2F%2Fapi.zapovednik96.ru%2Fupload%2Fiblock%2Ff0e%2Fd07e9d59-9033-4903-a9a7-a69a1fc9f79d.png&imgrefurl=https%3A%2F%2Fzapovednik96.ru%2Farticles%2Ftaksa%2F&docid=dQSZYFlA06tnjM&tbnid=JqPRl-vO2OvFEM&vet=12ahUKEwjv8JnO2MySAxVXb_UHHZGuNw0QnPAOegQIGBAB..i&w=1200&h=678&hcb=2&ved=2ahUKEwjv8JnO2MySAxVXb_UHHZGuNw0QnPAOegQIGBAB))
 
 *Фото: гладкошерстная такса — воплощение элегантности и энергии*
 
